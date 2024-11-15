@@ -1,0 +1,24 @@
+@import "bootstrap.min.css";
+@import "bootstrap-override.css";
+@import "logo.css";
+@import "navbar.css";
+@import "container.css";
+@import "banner.css";
+@import "button.css";
+@import "footer.css";
+
+body {
+    background-color: rgb(245, 245, 245);
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+
+.white-background {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 4px 0 rgb(0, 0, 0, 0.1);
+}
+
+.max-content {
+    width: max-content;
+}

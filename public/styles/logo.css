@@ -1,0 +1,41 @@
+.logo-text {
+    color: rgb(64, 64, 64);
+}
+
+.logo-image {
+    width: 300px;
+}
+
+.logo-text-title-main {
+    font-size: min(32px, 1.9vw);
+    line-height: 32px;
+    font-weight: 550;
+}
+
+.logo-text-title-secondary {
+    font-size: min(22px, 1.5vw);
+    line-height: 22px;
+    font-weight: 600;
+
+}
+
+.logo-text-subtitle {
+    font-size: min(max(12px, 0.6vw), 16px);
+    line-height: 17px;
+    font-weight: 550;
+}
+
+.logo-spaced-text {
+    letter-spacing: min(0.5vw, 10px);
+}
+
+.banner-form-label {
+    font-weight: 700;
+    margin: 0 0 5px 0;
+}
+
+.dotted-separator {
+    border: none; 
+    border-top: 2px dotted black;
+    margin: 20px 10px;
+}
